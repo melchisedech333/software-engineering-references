@@ -6,7 +6,7 @@
 
 ## Pontos importantes
 
-- **Consistẽncia eventual**
+- **Consistência eventual**
 
     Trata-se da ideia de que os dados vão se tornar consistentes com o tempo. Quando temos uma rede de nós onde há diferença de tempo de atualização das informações sincronizadas entre os nós, inicialmente temos uma certa inconsistẽncia nos dados, mas com o tempo os nós são todos sincronizados com as mesmas informações, ou seja, os dados passam a ficar consistentes.
 
