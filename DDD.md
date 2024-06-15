@@ -133,7 +133,7 @@
 
 - **Domain Model Pattern**
 
-    ![](/notes/extras/domain-model.png)
+    <img src="./extras/domain-model.png" width="100%">
 
     - **Entities**
 
